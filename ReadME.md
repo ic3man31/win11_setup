@@ -1,6 +1,7 @@
 # win11_setup
 
-This script allows you to easily install, update, or uninstall a list of applications using the Windows package manager, `winget`. It provides a simple command-line interface to perform these actions.
+This script allows you to easily install, update, or uninstall a list of applications using the Windows package manager, `winget`. 
+It provides a simple command-line interface to perform these actions.
 
 ## Requirements
 
@@ -9,7 +10,6 @@ Before running the script, ensure that you have the following:
 - Windows operating system
 - `winget` package manager installed on your system
 - Python 3.x
-- Git
 
 ## Usage
 
@@ -33,6 +33,7 @@ The script includes the following list of applications:
 - Google Chrome
 - Mozilla Firefox
 - Bitwarden
+- VSCode
 - AnyDesk
 - 7-Zip
 - Notepad++
