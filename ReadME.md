@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/rW6jGNr.png" alt="Your Image" style="height: 460px;">
+
+
 # win11_setup
 
 This script allows you to easily install, update, or uninstall a list of applications using the Windows package manager, `winget`. 
